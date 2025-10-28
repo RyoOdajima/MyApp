@@ -22,4 +22,6 @@ public class App {
 	}
 }
 
+//forループでdataの要素をitemに入れて、 if文の中で、dataのそれぞれの要素(appleなど)を一個ずつitemに入れてみる。もし重複があった場合はメッセージを表示する
+
 
