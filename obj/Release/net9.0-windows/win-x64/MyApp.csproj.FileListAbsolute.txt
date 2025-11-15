@@ -276,3 +276,4 @@ C:\MyProject\MyApp\obj\Release\net9.0-windows\win-x64\refint\MyApp.dll
 C:\MyProject\MyApp\obj\Release\net9.0-windows\win-x64\MyApp.pdb
 C:\MyProject\MyApp\obj\Release\net9.0-windows\win-x64\MyApp.genruntimeconfig.cache
 C:\MyProject\MyApp\obj\Release\net9.0-windows\win-x64\ref\MyApp.dll
+C:\MyProject\MyApp\obj\Release\net9.0-windows\win-x64\MyApp.sourcelink.json

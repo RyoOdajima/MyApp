@@ -16,7 +16,7 @@ namespace MyApp
             this.Text = "ログイン";
             Label title = new Label
 {
-    Text = "HITOS BASIC",
+    Text = "BASIC SOFT",
     Font = new Font("Arial", 14, FontStyle.Bold),
     AutoSize = true,
     Top = 0,
